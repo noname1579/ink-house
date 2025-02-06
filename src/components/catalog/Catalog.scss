@@ -1,0 +1,31 @@
+.catalog_btns {
+  display: flex;
+  font-family: "Raleway", serif;
+  justify-content: space-between;
+
+  h1 {
+    font-size: 30px;
+  }
+
+  .catalog_btn {
+    white-space: nowrap;
+    margin-right: 10%;
+
+    button {
+      border-radius: 20px;
+      border: none;
+      background-color: #D4E8D9;
+      color: #2C2D35;
+      height: 40px;
+      width: 130px;
+      font-size: 17px;
+      margin: 0 5%;
+      transition: 1s;
+
+      &:hover {
+        border: 2px solid #598D66;
+      }
+    }
+  }
+
+}
