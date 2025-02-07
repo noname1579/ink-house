@@ -1,13 +1,14 @@
 .main_section {
   display: flex;
   font-family: "Raleway", serif;
+  margin-top: 4%;
 }
 .main_section section {
   margin-left: 14%;
 }
 .main_section section h1 {
   font-size: 50px;
-  margin-top: 30%;
+  margin-top: 20%;
 }
 .main_section section p {
   margin-top: 8%;

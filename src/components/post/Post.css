@@ -1,0 +1,51 @@
+.catalog_post {
+  width: 350px;
+  height: 700px;
+  background-color: #bbd6c6;
+  margin-top: 3%;
+  margin-right: 5%;
+}
+
+.catalog_post_data {
+  font-family: "Raleway", serif;
+  padding: 5%;
+}
+.catalog_post_data img {
+  margin: 0 auto;
+  display: flex;
+  width: 310px;
+  height: 400px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+.catalog_post_data p {
+  color: #767c79;
+  font-size: 20px;
+  margin: 5% 0;
+}
+.catalog_post_data h1 {
+  font-size: 30px;
+  margin: 5% 0;
+}
+.catalog_post_data h2 {
+  font-size: 18px;
+  margin: 5% 0;
+}
+.catalog_post_data h3 {
+  margin: 12% 0 5%;
+  color: #497053;
+  font-size: 34px;
+}
+.catalog_post_data button {
+  width: 310px;
+  height: 65px;
+  font-size: 22px;
+  color: #416349;
+  background-color: #bbd6c6;
+  border: 2px solid #598D66;
+  transition: 0.3s;
+}
+.catalog_post_data button:hover {
+  background-color: #497053;
+  color: #bbd6c6;
+}/*# sourceMappingURL=Post.css.map */

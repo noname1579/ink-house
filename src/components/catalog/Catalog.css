@@ -2,13 +2,14 @@
   display: flex;
   font-family: "Raleway", serif;
   justify-content: space-between;
+  margin-top: 10%;
 }
 .catalog_btns h1 {
   font-size: 30px;
 }
 .catalog_btns .catalog_btn {
   white-space: nowrap;
-  margin-right: 10%;
+  margin-right: 12%;
 }
 .catalog_btns .catalog_btn button {
   border-radius: 20px;
@@ -19,8 +20,21 @@
   width: 130px;
   font-size: 17px;
   margin: 0 5%;
-  transition: 1s;
+  transition: 0.5s;
 }
 .catalog_btns .catalog_btn button:hover {
   border: 2px solid #598D66;
+}
+.catalog_btns .catalog_btn .active {
+  background-color: #376B44;
+  color: #fff;
+}
+.catalog_btns .catalog_btn .active:hover {
+  border: none;
+}
+
+.main_catalog {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
 }/*# sourceMappingURL=Catalog.css.map */
