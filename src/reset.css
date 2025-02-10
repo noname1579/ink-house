@@ -48,7 +48,6 @@ html {
 	scroll-behavior: smooth;
 }
 
-/* Стилизация скролла для WebKit (Chrome, Safari) */
 ::-webkit-scrollbar {
 	width: 14px;
 }

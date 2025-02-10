@@ -1,0 +1,28 @@
+.about_container {
+  font-family: "Raleway", serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5%;
+  margin-bottom: 7%;
+}
+
+.about_text {
+  margin-top: 6%;
+  max-width: 700px;
+  margin-left: 5%;
+}
+.about_text h1 {
+  font-size: 40px;
+  margin-bottom: 5%;
+}
+.about_text p {
+  font-size: 20px;
+  line-height: 30px;
+}
+.about_text .about_text_img {
+  margin-top: 4%;
+}
+.about_text .about_text_img img {
+  padding: 0 2%;
+}/*# sourceMappingURL=About.css.map */

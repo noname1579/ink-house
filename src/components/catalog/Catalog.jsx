@@ -1,7 +1,7 @@
 import './Catalog.css'
-import Post from '../post/Post'
 import Section_france from '../sections/section_france'
 import Section_germany from '../sections/section_germany'
+import Section_england from '../sections/section_england'
 import { useState } from 'react'
 
 export default function Catalog () {

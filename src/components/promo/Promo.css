@@ -1,0 +1,44 @@
+.promo {
+  font-family: "Raleway", serif;
+  margin-top: 5%;
+  background-image: url(./../../img/pic_background.jpg);
+  height: 574px;
+  background-size: cover;
+  color: #fff;
+}
+.promo .container {
+  padding-top: 3%;
+}
+.promo .container .promo_title {
+  display: flex;
+  align-items: center;
+}
+.promo .container h1 {
+  margin-left: 2%;
+  font-size: 40px;
+  font-weight: 600;
+}
+.promo .container p {
+  font-size: 20px;
+}
+.promo .container .promo_p {
+  margin-top: 3%;
+  max-width: 600px;
+  line-height: 1.5;
+  font-weight: 400;
+}
+.promo .container .promo_p button {
+  margin-top: 10%;
+  background-color: #fdeb81;
+  color: #2C2D35;
+  width: 250px;
+  height: 70px;
+  font-size: 20px;
+  border: 2px solid #2C2D35;
+  transition: 0.4s;
+  font-weight: 600;
+}
+.promo .container .promo_p button:hover {
+  background-color: #b3983a;
+  color: #2c2d33;
+}/*# sourceMappingURL=Promo.css.map */

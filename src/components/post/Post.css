@@ -29,16 +29,16 @@
 }
 .catalog_post_data h2 {
   font-size: 18px;
-  margin: 5% 0;
 }
 .catalog_post_data h3 {
-  margin: 12% 0 5%;
   color: #497053;
-  font-size: 34px;
+  font-size: 36px;
+  margin: 7% 0;
 }
 .catalog_post_data button {
+  margin-top: 5%;
   width: 310px;
-  height: 65px;
+  height: 50px;
   font-size: 22px;
   color: #416349;
   background-color: #bbd6c6;
