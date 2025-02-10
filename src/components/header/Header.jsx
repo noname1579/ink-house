@@ -15,8 +15,8 @@ export default function Header() {
         </div>
         <div className="main_nav">
           <a href="#catalog">Репродукции</a>
-          <a href="#">Новинки</a>
-          <a href="#">О нас</a>
+          <a href="#promo">Новинки</a>
+          <a href="#about">О нас</a>
           <img src={cart} />
         </div>
       </div>

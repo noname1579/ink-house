@@ -7,7 +7,7 @@ import img3 from './../../img/Ellipse 32.jpg'
 
 export default function About () {
   return (
-    <div className="about_container main_container">
+    <div className="about_container main_container" id='about'>
       <div className="about_img">
         <img src= { img }  />
       </div>

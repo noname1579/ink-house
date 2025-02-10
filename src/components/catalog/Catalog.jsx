@@ -3,6 +3,7 @@ import Section_france from '../sections/section_france'
 import Section_germany from '../sections/section_germany'
 import Section_england from '../sections/section_england'
 import { useState } from 'react'
+import Promo from '../promo/Promo'
 
 export default function Catalog () {
 
@@ -30,6 +31,7 @@ export default function Catalog () {
           { tab === 'england' && <Section_england />}
          </div> 
       </div>
+      {<Promo functionClick={clickBtn} tab={tab} />}
     </>
   )
 }

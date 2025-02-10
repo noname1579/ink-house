@@ -13,7 +13,6 @@ createRoot(document.getElementById('root')).render(
     <Header />
     <Main />
     <Catalog />
-    <Promo />
     <About/>
     <Footer />
   </>
