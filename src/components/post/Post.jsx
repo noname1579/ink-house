@@ -1,6 +1,15 @@
 import './Post.css'
+import './../header/Header'
 
-export default function Post ({pictureUrl, author, title, body, price}) {
+export default function Post ({pictureUrl, author, title, body, price, addToCart}) {
+
+  const shop = {
+    pictureUrl,
+    author,
+    title,
+    body,
+    price,
+  }
 
   return (
     <div className='catalog_post'> 
@@ -10,7 +19,7 @@ export default function Post ({pictureUrl, author, title, body, price}) {
         <h1>{title}</h1>
         <h2>{body}</h2>
         <h3>{price}</h3>
-        <button>В корзину</button>
+        <button onClick={() => addToCart(shop)}>В корзину</button>
       </div>
     </div>
   )
