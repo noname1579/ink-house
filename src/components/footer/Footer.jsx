@@ -1,5 +1,6 @@
 import './Footer.css'
-import logo from '../../img/logo.svg'
+import logo from '/logo.svg'
+import '../../mobile screen/mobile_Footer.css' 
 
 export function Footer () {
   return (

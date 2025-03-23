@@ -1,5 +1,6 @@
 import './Promo.css'
-import star from './../../img/Star.png'
+import './../../mobile screen/mobile_Promo.css'
+import star from '/Star.png'
 
 export default function Promo ({ functionClick, tab }) {
 

@@ -4,6 +4,7 @@ import Section_germany from '../sections/section_germany'
 import Section_england from '../sections/section_england'
 import { useState } from 'react'
 import Promo from '../promo/Promo'
+import '../../mobile screen/mobile_Catalog.css'
 
 export default function Catalog () {
 

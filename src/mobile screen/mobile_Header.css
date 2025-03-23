@@ -1,0 +1,14 @@
+@media screen and (max-width: 1000px) {
+  main {
+    height: 60px;
+  }
+  main .container {
+    height: 60px;
+    width: 100%;
+    justify-content: center;
+  }
+  main .container .main_nav {
+    padding: 0;
+    display: none;
+  }
+}/*# sourceMappingURL=mobile_Header.css.map */

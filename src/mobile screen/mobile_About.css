@@ -1,0 +1,11 @@
+@media screen and (max-width: 1000px) {
+  .about_text {
+    margin: 3% 4%;
+  }
+  .about_text h1 {
+    font-size: 30px;
+  }
+  .about_text p {
+    font-size: 18px;
+  }
+}/*# sourceMappingURL=mobile_About.css.map */

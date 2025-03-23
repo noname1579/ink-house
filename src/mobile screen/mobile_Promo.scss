@@ -1,0 +1,28 @@
+@media screen and (max-width: 1000px) {
+  .promo {
+    height: auto;
+
+    .container {
+
+      .promo_title {
+        padding: 2% 5%;
+        h1 {
+          font-size: 30px;
+        }
+      }
+
+      .promo_p {
+        margin-top: 15%;
+        padding: 0 2% 5%;
+
+        p {
+          font-size: 17px;
+        }
+
+        button {
+          height: 60px;
+        }
+      }
+    }
+  }
+}

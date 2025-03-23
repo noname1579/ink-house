@@ -1,0 +1,17 @@
+@media screen and (max-width: 1000px) {
+
+  main {
+    height: 60px;
+
+    .container {
+      height: 60px;
+      width: 100%;
+      justify-content: center;
+
+      .main_nav  {
+        padding: 0;
+        display: none;
+      }
+    }
+  }
+}

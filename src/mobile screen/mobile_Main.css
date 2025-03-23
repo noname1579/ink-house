@@ -1,0 +1,23 @@
+@media screen and (max-width: 1000px) {
+  .main_container {
+    width: 100%;
+  }
+  .main_container img {
+    display: none;
+  }
+  .main_section section {
+    margin-left: 4%;
+  }
+  .main_section section h1 {
+    font-size: 35px;
+  }
+  .main_section section p {
+    font-size: 20px;
+  }
+  .main_section section button {
+    height: 50px;
+  }
+  .main_catalog .catalog_post {
+    height: 100%;
+  }
+}/*# sourceMappingURL=mobile_Main.css.map */

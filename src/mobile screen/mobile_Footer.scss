@@ -1,0 +1,17 @@
+@media screen and (max-width: 1000px) {
+
+  .footer_container {
+    height: 60px;
+    display: block;
+
+    .footer_logo {
+      padding: 3% 0;
+      display: flex;
+      justify-content: center;
+
+      a, p {
+        display: none;
+      }
+    }
+  }
+}

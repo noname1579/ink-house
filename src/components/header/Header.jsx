@@ -1,7 +1,8 @@
 import { React, useState, useEffect } from 'react'
-import logo from '../../img/logo.svg'
-import cart from '../../img/cart.svg'
+import logo from '/logo.svg'
+import cart from '/cart.svg'
 import './Header.css'
+import '../../mobile screen/mobile_Header.css'
 
 export default function Header() {
 
@@ -15,6 +16,7 @@ export default function Header() {
   useEffect(() => {
     const storedCart = JSON.parse(localStorage.getItem('basket'))
     setBasket(storedCart)
+    console.log('корзина обновлена')
   }, [isOpen])
 
   return (

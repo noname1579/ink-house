@@ -21,7 +21,6 @@
   width: 130px;
   font-size: 17px;
   margin: 0 5%;
-  transition: 0.5s;
 }
 .catalog_btns .catalog_btn button:hover {
   border: 2px solid #598D66;

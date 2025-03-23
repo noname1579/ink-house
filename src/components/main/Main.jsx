@@ -1,5 +1,7 @@
-import bird from './../../img/bird.png'
+import bird from '/bird.png'
 import './Main.css'
+import '../../mobile screen/mobile_Main.css' 
+
 export default function Main () {
 
   function scroll() {

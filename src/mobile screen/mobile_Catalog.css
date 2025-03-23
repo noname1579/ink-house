@@ -1,0 +1,18 @@
+@media screen and (max-width: 1000px) {
+  .main_container .main_catalog {
+    margin-left: 5%;
+  }
+  .main_container .catalog_btns {
+    display: block;
+  }
+  .main_container .catalog_btns h1 {
+    margin-left: 3%;
+  }
+  .main_container .catalog_btns .catalog_btn {
+    margin-top: 5%;
+  }
+  .main_container .catalog_btns .catalog_btn button {
+    width: 90px;
+    font-size: 15px;
+  }
+}/*# sourceMappingURL=mobile_Catalog.css.map */

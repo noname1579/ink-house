@@ -1,0 +1,14 @@
+@media screen and (max-width: 1000px) {
+  .footer_container {
+    height: 60px;
+    display: block;
+  }
+  .footer_container .footer_logo {
+    padding: 3% 0;
+    display: flex;
+    justify-content: center;
+  }
+  .footer_container .footer_logo a, .footer_container .footer_logo p {
+    display: none;
+  }
+}/*# sourceMappingURL=mobile_footer.css.map */

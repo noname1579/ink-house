@@ -2,7 +2,7 @@
 const data_france = [
   {
     id: 1,
-    picture: 'https://s3-alpha-sig.figma.com/img/fa91/bf9e/3004b7d8a3c0e2de1caa8fd5732848be?Expires=1739750400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=grBrWftWYNwO~oT~YV22Ej0lWQHqLDponbrjROXzhnRMIon2t7uH1z6IVMJS18vb7rfvteh3d3uNoQ7MizL~7uevcLnv9m-lcCpFDwvjYJVeP8bcUYt2F7V9mHba8rrW7lciFFsnxXAQcUxZy8a9KQUKsV7mr1hh50VXbhturjFF7y2wa6RPhr9oKnr4cdgpS-tHcyE9Z4d2MLAZqopeyixqNIIXX~ua4dES6RPCGfsQTIK~S40WDG5J~hRmI3B225gRO~ThtiwjRT8~wIYRGqrHMumFSnhYkjopnNAaY4nDiJ9kMWGT-NXSIomzp1gNLMrXXmBfaEL3Pxfb7-6edg__',
+    picture: 'https://s3-alpha-sig.figma.com/img/fa91/bf9e/3004b7d8a3c0e2de1caa8fd5732848be?Expires=1743379200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=lwKgGVufnjkozyHxlWnzm8si7kRrub4nhpTFC2cYF5nzV4cG5dUS8zZ5VQV6N5yjmGl3FcFVkjilsqv3V8-D5r2pAtUFGKRdiRwWvlxREG0IXPiQCkUhLL3uk7dRIe3ohWd48rlOJ-Gj0wJ9-Scp9osiZ2FXt5E9uGHSW29C~TSKvAXX-BIshrAkCBC0~Kz5lyb8GARY8h8tf0Jx1b1p7a6JjLWY6u8H2MfIX1dfk7pgeMW-2I1BWGcd6AtwnWJbcQFxN~a7-6YmFXXXUAxxJbs75xi7NSQISlQH4RLRdMXJRbhg7R1QMjImz7aYUkMOSvrig--SJEw16TPucIxtbw__',
     author: 'Марсель Руссо',
     title: 'Охота Амура',
     body: 'Холст, масло(50x80)',
@@ -11,7 +11,7 @@ const data_france = [
 
   {
     id: 2,
-    picture: 'https://s3-alpha-sig.figma.com/img/15e2/7662/749f524a689260200e0563fdf7e7d013?Expires=1739750400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=p~aAz~ppx8e6RKharSio~foib~XMpMTcGCBKq4MuwSxXR9pvwwEMl45v8vyAwDW9Ygt1TR2vJ22-cD2ARzk6LEa6QSUgSCCkPTwrFbIn6uhRz2ELwv4S~zEz4GIAMiyNjHLeRs--SQ5KjK2aGHy887wyVVAVsSCQ800INTSoF~N3i36ocPqNC0PBJXJ7cNYwmjs3svNvhvN7bZN7ioVZ23pRQyRpA9sF9tcpTRCLz~T45k8GRuXsxEAF9mpNwFbgxemTQsCP-K3QAXYAQNk93jhqPQ5mcXe8jFlh0Dkvl2LXn2gsRi3I-XWDnmp9NyJtFqi8cNSHD4bfb~zDYNKGWA__',
+    picture: 'https://s3-alpha-sig.figma.com/img/15e2/7662/749f524a689260200e0563fdf7e7d013?Expires=1743379200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=pbBiM3m30YxT8cCXYNWRiVL8DYZoyfnWnuyiydgFXzGmnIWc3JodBRwXVbYIXe~py4x07P9K1lFZrHRbb5B~uurlYKimBZVHTithNI2yGs2-2GHEsyJM1KtXjmK1aeylvCGD-hEfqYINnI~XtRK~Htlxc~9MULeZ4fFtZpcArl4J5uHTJBnMkvwrzwXWj~RD8tu1eTbuRMgHNXMxKFBIv7lkr4wPQvPgS3V5ICJ3R6sATuAKFJ-q5pwDpYVT9pzRxbc-lTcwfXz2FbD6kZrbOuxuaNODc~RXaemzC6BuemjrNIhZgKR0FTvwaBPqIZpIAS7TtSiq3WCDUvL0erAVeQ__',
     author: 'Анри Селин',
     title: 'Дама с собачкой',
     body: 'Акрил, бумага (50х80) ',
@@ -20,7 +20,7 @@ const data_france = [
 
   {
     id: 3,
-    picture: 'https://s3-alpha-sig.figma.com/img/8259/612e/ab708c86c2084b45ede2e5b47f32f0ae?Expires=1739750400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=X~4snTq4BdhlDKttJqElT22V2loaGqRCrdlwyqDqXAntn2qd9kBctY9fdaS4iJM8FzSyKVLkN8zK2Owdhki3oscc9F-qw3l-sGW5WeICd2m8GoX1uXEt58T2qsaiGk1Y7UMGajOj~PzX10m6mL6kL9ICg~UK7uKgcCHOwBzewM~CaSYOJ3iOc3pWUMIRy7zyFENF-EUdAs2OGMYc2SYD7wix6G9okj269SuylA1eEvX9D7eerItkmS3FPrs4bfkznwMc4oS9L4X4u-0f7PBgGNfb62-fA4DVNzP61MKaGnTcTFvwbfS8gAGmN4wO9qHJBCgUksRAOLzlFB~fIW~uSw__',
+    picture: 'https://s3-alpha-sig.figma.com/img/8259/612e/ab708c86c2084b45ede2e5b47f32f0ae?Expires=1743379200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=QAQ9By1WFyI5~lQ3GbjOs0ePVqPwZprbkQ9Pn4R41jcuOGvL9xtzurhAVhKvNCE2dRCGZm~ntrCte0v0DM3SewJd7fiwDeLZezeDRa1RM1jksVbXAlW9CjqUq3w79ggWbHWE8VORd8~f-8gxuFfNy2srmJm1i3O6uMDrKu8Mb4LH5un0r6WyFyCznsy2vi33hvfZWgRA1FoV~zJPmBTE7H2Z22tBwgZ-2ZHWVwVTn~NZA7rPEAEVDKYTsy6sVIEDldcHurevbgouuIweKRKdZWmNgct0boLrjMuyYrpluspkVe52nxhYhmQa1~fHX0m47Aw1hJ1SbgYXVhimG6aF0A__',
     author: 'Франсуа Дюпон',
     title: 'Процедура',
     body: 'Цветная литография (40х60) ',
@@ -29,7 +29,7 @@ const data_france = [
 
   {
     id: 4,
-    picture: 'https://s3-alpha-sig.figma.com/img/53e8/b467/38c4dea3c32614513f30d586b23e623e?Expires=1739750400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=F041fWsr2vKFTMSaZTeMXlLpPdxgwYYZoc0BaPgKuyNs7N-4xFLVa5Co3aGZSWwNBfks-zodYY--HsCtYz2fwqpUnGoTMK2KfjT889DI~1QS3VcLOwCGbzbej8FgMhs~sl9f0aG96EDwRRLK4nCxbAIPznWJ3O6wPA0-xqmerLkDH~lU040BEvZ7JSyOX43j8xxd22O0wCQ1No9ZSL5T2GwK8hk8n0sN1aGxM8kJnf7R~sPPdn0FE8hScRxyMS~XBx~uX~qJHkXZlgdmrfpFMZqcNA8TyWM9UMiWpxmzo1kZMLO7FjuRzAgqtYkaHol5HgNN03zld17aZmrUrWbE0Q__',
+    picture: 'https://s3-alpha-sig.figma.com/img/53e8/b467/38c4dea3c32614513f30d586b23e623e?Expires=1743379200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=nqSpR4hGtImmz1TqRyDbMmqgiYIqE9V7BO0ah7KXly4mfec9GoHFdaFIB~vxZubCrb7x6e95UB9Cs1ZnaLureF3CuIKOLV-Bsa~E6~z6Mh4yd~091Q-pZD1q-zTevotCVo46pksGxshBWAauMXCEX9SvMB3mL3fC5bjbC4iHKiqMtzuHHABUX0w9OIJ6oKEXRfCFpwubx90ypmBSmJ1yi0ISObVeguG7gO0lYXZ97F18cKsn5gndQER-kH60ntFiSVdoldJsjIu0KrSs22Wo8SqsAOA5bpmsyqfLzLXGFQdjIlfXWU464~hBhAR2p7usQgjbjN~8WJNMCsgQg0vHvg__',
     author: 'Луи Детуш',
     title: 'Роза',
     body: 'Бумага, акрил (50х80) ',
@@ -37,7 +37,7 @@ const data_france = [
   },
   {
     id: 5,
-    picture: 'https://s3-alpha-sig.figma.com/img/044c/aca3/2bf109bb1a75d2ec01ef08204231eeaa?Expires=1739750400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=MP0ClDVHdmLo3DR8lruPclFGpnogD5lmdRpQa1ATb2wvj75woJsvyqItT1bYOiHXlR2U3UKinoiQ-JXAc4vnPH9MUpmKHVXe3sjJG72WFJ5ydCj5UN5gbgtWkqoTVUqQjWfKsF8fzfb3pawBA72VWK1iB~g2cLFqpVCj0NNDQsYrxsK10WG1C4cb-FVU6rCWmQi7ksYYk-FdGFc0QAf~W7FbEJXcV4a0UlVct~Noda4pylfv0Hjj-3~mW57jfMZtLh9mxVU5A-yJqLOecCSkxzEtAUHn8Prx0k~UP6s~2SKMlzV74ceTl3GRYGgvCa9rRFrcpO7p6YR-U~FaIglU6w__',
+    picture: 'https://s3-alpha-sig.figma.com/img/044c/aca3/2bf109bb1a75d2ec01ef08204231eeaa?Expires=1743379200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=h~fnal69KiOc385hhZXN1eOsvUL54hkXhrTpmJ~9q8diCcDHxzgsenUiwfufTDOXLUyv-h6bmdg1q00cb9tJK~qcfXyZZD2HH979MmQ71GlC-7M~wrbIXSYInBWBMFba7-RIwpjl3KCXec40ICxwcYljHUqmcwo2u6d9Azyl7Sqem-fd1bPP1-WHYsZK5x~zbd-Vt9oZPZbQz5ak8cqYEy5iV-LV4tDFQr0UoB9tRqGzm~RnwZAEKwiu5VCEDWsCl9C-CEtt~0mpUj8eL7jsbBswZk7aHz9tol~rlTDgT6k3rV5JX~hacLVPUxjxZRe6i8NfGjNFcYDXsiZlvH2htg__',
     author: 'Франсуа Дюпон',
     title: 'Птичья трапеза',
     body: 'Цветная литография (40х60) ',
@@ -45,7 +45,7 @@ const data_france = [
   },
   {
     id: 6,
-    picture: 'https://s3-alpha-sig.figma.com/img/f32f/888e/e10b4d96d2acd08463a8d8a2887f353f?Expires=1739750400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=ERDdDB5AirQp-rTjq~yLYtgdqGKe71LKdiH7A-mjKeMhYFypW-N2DijXg11VlMvQ2Rb4jkc7AihYYL4DaVnDpydecGlcFeEFx5lnks-CUf06-J-5NaRdIpRJ-puzjkzjoSfUoWnhjGFsNqbM3P2SKth4udyRY3JunW7-g-1do9nqyz5xz08ycwn4BOb~xRCektBJxFvMInA5LZPLEQgPaDAkuJCSeFYZk6qBs3QYEERHUw~pPVtpRBM1OHSfCGXkOXjY1OcjwP7ioJ9dCsvoR5MQwLlCZ65Yly3MiICyZRXchz2hmeA374LoUEr78mjbd7vFSZE6nS3tVq02plz8EA__',
+    picture: 'https://s3-alpha-sig.figma.com/img/f32f/888e/e10b4d96d2acd08463a8d8a2887f353f?Expires=1743379200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=jT0XmJMmgYVVMhnt0bCgSs46NDJcyRKCy0so2a64gqVpTwJz3~XrS7V6hPU4d9EuM5whthi6qVmsAaNZ5aziUPeyhLf1RTdw7N61TB4cf~nMe030IwNcMHXkUxqy62ErSuTOfUgCW6L~a-tqNk3Zz1mazU4tdOIaehiGrGeLn0CvthZ3baT~NQhCSrVEm4tPfGj1FtLKqHpclI9av~ITBgFqK41oqJ4tRmshMTcsWpBTlFQMaXADbFlf9OIGccy~Z-f-X4Qcsomb7KzZl0HTa8mgWe75Axwdb6k4~Onm9HAPyyhv49SoKSQvchwGIthE2iqhMHWTUUYQ3gJ5AKKwjQ__',
     author: 'Пьер Моранж',
     title: 'Пейзаж с рыбой',
     body: 'Цветная литография (40х60) ',
