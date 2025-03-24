@@ -1,0 +1,14 @@
+@media screen and (max-width: 1000px) {
+  .catalog_post {
+    height: auto;
+    width: 300px;
+  }
+  .catalog_post_data button {
+    width: 270px;
+    height: 40px;
+  }
+  .catalog_post_data img {
+    height: 300px;
+    width: 270px;
+  }
+}/*# sourceMappingURL=mobile_Post.css.map */

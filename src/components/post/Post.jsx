@@ -1,5 +1,6 @@
 import './Post.css'
 import './../header/Header'
+import './../../mobile screen/mobile_Post.css'
 
 export default function Post ({pictureUrl, author, title, body, price, addToCart}) {
 

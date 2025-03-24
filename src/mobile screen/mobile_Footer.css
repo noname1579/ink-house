@@ -5,10 +5,11 @@
   }
   .footer_container .footer_logo {
     padding: 3% 0;
+    width: auto;
     display: flex;
     justify-content: center;
   }
   .footer_container .footer_logo a, .footer_container .footer_logo p {
     display: none;
   }
-}/*# sourceMappingURL=mobile_footer.css.map */
+}/*# sourceMappingURL=mobile_Footer.css.map */
