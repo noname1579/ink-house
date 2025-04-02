@@ -21,8 +21,18 @@
   line-height: 30px;
 }
 .about_text .about_text_img {
+  list-style: none;
   margin-top: 4%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 2rem);
 }
 .about_text .about_text_img img {
   padding: 0 2%;
+  width: 5rem;
+  height: 5rem;
+  border-radius: 50%;
+  transition: translate 200ms;
+}
+.about_text .about_text_img img:hover ~ img {
+  translate: 3.5rem;
 }/*# sourceMappingURL=About.css.map */
