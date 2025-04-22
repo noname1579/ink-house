@@ -1,6 +1,10 @@
 @media screen and (max-width: 1000px) {
   .main_container .main_catalog {
-    margin-left: 5%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    gap: 10px;
   }
   .main_container .catalog_btns {
     display: block;
@@ -10,6 +14,7 @@
   }
   .main_container .catalog_btns .catalog_btn {
     margin-top: 5%;
+    width: 100%;
   }
   .main_container .catalog_btns .catalog_btn button {
     width: 90px;

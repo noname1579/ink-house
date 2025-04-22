@@ -3,7 +3,11 @@
   .main_container {
 
     .main_catalog {
-      margin-left: 5%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 100%;
+      gap: 10px;
     }
 
     .catalog_btns {
@@ -15,6 +19,7 @@
 
       .catalog_btn {
         margin-top: 5%;
+        width: 100%;
 
         button {
           width: 90px;
